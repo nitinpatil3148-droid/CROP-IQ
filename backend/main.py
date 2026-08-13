@@ -108,7 +108,7 @@ def spray(request: SprayRequest):
         "status": spray_status
     }
 
-//
+
 
 # ==========================================
 # RASPBERRY PI GETS SPRAY COMMAND
