@@ -6,7 +6,7 @@ import requests
 # YOUR RENDER BACKEND URL
 # ==========================================
 
-BACKEND_URL = "PASTE_YOUR_RENDER_URL_HERE"
+BACKEND_URL = "https://crop-iq-0gbw.onrender.com"
 
 
 # ==========================================
